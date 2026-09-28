@@ -1,8 +1,13 @@
-<h1 align="center">Hi, I'm Meet Chhabhaiya 👋</h1>
-
+<!-- Animated wave banner with name -->
 <p align="center">
-  <b>Backend-focused Software Engineer | B.Tech CSE @ MIT-WPU</b><br>
-  <i>I build scalable, production-grade apps with Java, Spring Boot and microservices.</i>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi,%20I'm%20Meet%20Chhabhaiya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=60" alt="Hi, I'm Meet Chhabhaiya" />
+</p>
+
+<!-- Typing animation -->
+<p align="center">
+  <a href="https://github.com/meet702">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;B.Tech+CSE+%40+MIT-WPU+%F0%9F%8E%93;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;I+build+scalable%2C+production-grade+apps+%F0%9F%9A%80;Let's+build+something+great+together+%F0%9F%A4%9D" alt="Typing animation" />
+  </a>
 </p>
 
 <p align="center">
