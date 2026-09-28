@@ -21,8 +21,9 @@
   <img src="title-about.svg" alt="About Me" width="100%" />
 </p>
 
-- 🎓 B.Tech in Computer Science at **MIT-WPU, Pune** (2023 – 2027), CGPA **8.79**
-- 💼 Software Engineer Intern at **Infosys** (Apr – May 2026), where I built a Retail Store Management System for iPhone and iPad with a team of 10
+- 🎓 B.Tech in Computer Science at **MIT-WPU, Pune** (2023 – 2027), CGPA **8.74**
+- 🚀 Currently interning at **[Osmos.ai](https://www.osmos.ai)** (17 Sep 2026 – Present)
+- 💼 Previously, Software Engineer Intern at **Infosys** (Apr – May 2026), where I built a Retail Store Management System for iPhone and iPad with a team of 10
 - 🔭 Building backend systems with **Java, Spring Boot, REST APIs and microservices**
 - ☁️ Deploying on **Render, Vercel and Cloudflare** with Docker
 - 🤖 Integrating LLMs (Gemini API) into real products
