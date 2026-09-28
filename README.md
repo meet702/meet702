@@ -1,9 +1,7 @@
-<!-- Animated wave banner with name -->
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=220&section=header&text=Hi,%20I'm%20Meet%20Chhabhaiya%20%F0%9F%91%8B&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20Java%20%26%20Spring%20Boot&descSize=18&descAlignY=60" alt="Hi, I'm Meet Chhabhaiya" />
+  <img src="./header.svg" alt="Hi, I'm Meet Chhabhaiya" width="100%" />
 </p>
 
-<!-- Typing animation -->
 <p align="center">
   <a href="https://github.com/meet702">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=00C6FF&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;B.Tech+CSE+%40+MIT-WPU+%F0%9F%8E%93;Java+%7C+Spring+Boot+%7C+Microservices+%E2%98%95;I+build+scalable%2C+production-grade+apps+%F0%9F%9A%80;Let's+build+something+great+together+%F0%9F%A4%9D" alt="Typing animation" />
@@ -137,7 +135,7 @@ An iPhone and iPad app built with **SwiftUI** by a team of 10 in an Agile/Scrum 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/meet-chhabhaiya-9428b0298"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:meetchhabhaiya10@email.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
