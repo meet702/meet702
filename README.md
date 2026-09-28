@@ -14,11 +14,11 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-about.svg" alt="About Me" width="100%" />
+  <img src="title-about.svg" alt="About Me" width="100%" />
 </p>
 
 - 🎓 B.Tech in Computer Science at **MIT-WPU, Pune** (2023 – 2027), CGPA **8.79**
@@ -30,11 +30,11 @@
 - 📍 Pune, India
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-stack.svg" alt="Tech Stack" width="100%" />
+  <img src="title-stack.svg" alt="Tech Stack" width="100%" />
 </p>
 
 **Languages**
@@ -81,11 +81,11 @@
 **Core CS:** Data Structures & Algorithms · OOP · DBMS · Operating Systems · Computer Networks
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-projects.svg" alt="Major Projects" width="100%" />
+  <img src="title-projects.svg" alt="Major Projects" width="100%" />
 </p>
 
 ### 🏋️ Fitness Web Application
@@ -98,7 +98,7 @@ A fitness platform built on **3 Spring Boot microservices** (User, Activity, AI 
 **Stack:** `Java` `Spring Boot` `Spring Cloud` `MongoDB` `PostgreSQL` `RabbitMQ` `Keycloak`
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 ### 🎓 RuinMIT
@@ -110,7 +110,7 @@ A full-stack campus platform for MIT-WPU students with **5 modules**: Gigs, Ride
 **Stack:** `Java` `Spring Boot` `React` `PostgreSQL` `WebSockets` `Docker` `Cloudinary`
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 ### ✉️ Smart Email Reply Generator
@@ -121,7 +121,7 @@ A **Chrome Extension** with a Spring Boot backend that adds an **AI Reply** butt
 **Stack:** `Java` `Spring Boot` `Spring WebFlux` `Chrome Extension`
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 ### 🛍️ Retail Store Management System *(Infosys Internship)*
@@ -130,16 +130,11 @@ An iPhone and iPad app built with **SwiftUI** by a team of 10 in an Agile/Scrum 
 **Stack:** `Swift` `SwiftUI` `Supabase` `Jira` `GitHub`
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-stats.svg" alt="GitHub Stats" width="100%" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=meet702&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meet702&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img src="title-stats.svg" alt="GitHub Stats" width="100%" />
 </p>
 
 <p align="center">
@@ -147,21 +142,21 @@ An iPhone and iPad app built with **SwiftUI** by a team of 10 in an Agile/Scrum 
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-certs.svg" alt="Certifications" width="100%" />
+  <img src="title-certs.svg" alt="Certifications" width="100%" />
 </p>
 
 - **Deloitte Australia Technology Job Simulation** (Forage), Jun 2025 · [View certificate](https://drive.google.com/file/d/1vCczKbdf7b1XXhklynbrzvryAt8vXI0l/view?usp=sharing)
 
 <p align="center">
-  <img src="assets/divider.svg" alt="" width="100%" />
+  <img src="divider.svg" alt="" width="100%" />
 </p>
 
 <p align="center">
-  <img src="assets/title-connect.svg" alt="Connect With Me" width="100%" />
+  <img src="title-connect.svg" alt="Connect With Me" width="100%" />
 </p>
 
 <p align="center">
@@ -172,5 +167,5 @@ An iPhone and iPad app built with **SwiftUI** by a team of 10 in an Agile/Scrum 
 <p align="center"><i>⭐ If you like my work, drop a star on a repo!</i></p>
 
 <p align="center">
-  <img src="assets/footer.svg" alt="" width="100%" />
+  <img src="footer.svg" alt="" width="100%" />
 </p>
